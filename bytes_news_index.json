@@ -1,0 +1,87 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-01-09",
+  "total_cards": 10,
+  "cards": [
+    {
+      "id": "news_001",
+      "file": "bytes_news/fbi_quishing_kimsuky.json",
+      "category": "Law Enforcement",
+      "priority": "high",
+      "featured": true
+    },
+    {
+      "id": "news_002",
+      "file": "bytes_news/sedgwick_ransomware.json",
+      "category": "Ransomware Attack",
+      "priority": "high",
+      "featured": false
+    },
+    {
+      "id": "news_003",
+      "file": "bytes_news/ledger_supply_chain.json",
+      "category": "Data Breach",
+      "priority": "medium",
+      "featured": true
+    },
+    {
+      "id": "news_004",
+      "file": "bytes_news/crowdstrike_sgnl_acquisition.json",
+      "category": "Cybersecurity Product Update",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_005",
+      "file": "bytes_news/shinyhunters_pornhub.json",
+      "category": "Data Breach",
+      "priority": "high",
+      "featured": true
+    },
+    {
+      "id": "news_006",
+      "file": "bytes_news/windows_cve_2025_62221.json",
+      "category": "Vulnerability Alert",
+      "priority": "high",
+      "featured": false
+    },
+    {
+      "id": "news_007",
+      "file": "bytes_news/ccpa_2026_rules.json",
+      "category": "Privacy Regulation",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_008",
+      "file": "bytes_news/india_power_sector_cyber.json",
+      "category": "Government Cyber Policy",
+      "priority": "medium",
+      "featured": true
+    },
+    {
+      "id": "news_009",
+      "file": "bytes_news/nordvpn_claim.json",
+      "category": "Data Breach",
+      "priority": "low",
+      "featured": false
+    },
+    {
+      "id": "news_010",
+      "file": "bytes_news/russia_viber_malware.json",
+      "category": "Government Cyber Policy",
+      "priority": "high",
+      "featured": true
+    }
+  ],
+  "categories": [
+    "Law Enforcement",
+    "Ransomware Attack",
+    "Data Breach",
+    "Cybersecurity Product Update",
+    "Vulnerability Alert",
+    "Privacy Regulation",
+    "Government Cyber Policy"
+  ],
+  "refresh_interval_hours": 24
+}

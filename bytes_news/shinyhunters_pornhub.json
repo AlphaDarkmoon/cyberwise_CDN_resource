@@ -1,0 +1,16 @@
+{
+  "title": "ShinyHunters Claims Pornhub Premium User Data Theft",
+  "category": "Data Breach",
+  "context": "Hacking group ShinyHunters claimed to have stolen data from 201 million Pornhub records via a Mixpanel analytics breach. Pornhub stated the exposed data was historical and excluded passwords or payment details.",
+  "image_url": "https://indianexpress.com/article/technology/tech-news-technology/shinyhunters-pornhub.jpg",
+  "sources": [
+    {
+      "name": "Bright Defense",
+      "logo_url": "https://www.brightdefense.com/wp-content/uploads/2022/01/brightdefense-logo.svg"
+    },
+    {
+      "name": "Indian Express",
+      "logo_url": "https://indianexpress.com/favicon.ico"
+    }
+  ]
+}

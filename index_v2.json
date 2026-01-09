@@ -1,0 +1,13 @@
+{
+  "version": 8,
+  "total_items": 31,
+  "page_size": 10,
+  "total_pages": 4,
+  "last_updated": "2026-01-01",
+  "pages": [
+    "pages/page_1.json",
+    "pages/page_2.json",
+    "pages/page_3.json",
+    "pages/page_4.json"
+  ]
+}

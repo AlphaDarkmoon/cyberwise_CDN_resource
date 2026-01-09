@@ -1,0 +1,12 @@
+{
+  "title": "NordVPN Faces Alleged Server Compromise Claim",
+  "category": "Data Breach",
+  "context": "A threat actor claimed to have breached a NordVPN server and leaked internal databases. NordVPN responded that the exposed data originated from a non-production testing environment with no customer impact confirmed.",
+  "image_url": "https://firecompass.com/images/nordvpn-breachforums-2026.png",
+  "sources": [
+    {
+      "name": "FireCompass",
+      "logo_url": "https://avatars.githubusercontent.com/u/67672355?s=200&v=4"
+    }
+  ]
+}
