@@ -2,7 +2,7 @@
   "title": "FBI Alerts on North Korean Quishing Campaigns",
   "category": "Law Enforcement",
   "context": "The FBI issued a flash alert on January 8, 2026, warning that North Korean state-sponsored Kimsuky actors are using malicious QR codes in spear-phishing emails targeting U.S. think tanks, academic institutions, and government entities since May 2025. These \"quishing\" attacks spoof legitimate sources to trick victims into scanning codes that lead to malware for session token theft, bypassing MFA and enabling persistent access. The campaigns focus on North Korea-related policy research, highlighting risks to cloud identities and internal propagation.",
-  "image_url": "https://thehackernews.com/image/large/2026/01/fbi-kimsuky-qr-phishing.png",
+  "image_url": "https://cdn.nextgov.com/media/img/cd/2024/05/02/050224_getty_ng_dprk_morecyber/route-fifty-lead-image.jpg",
   "sources": [
     {
       "name": "The Hacker News",

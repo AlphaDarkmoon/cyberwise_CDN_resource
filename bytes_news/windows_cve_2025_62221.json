@@ -2,7 +2,7 @@
   "title": "Windows CVE-2025-62221 Added to CISA KEV Catalog",
   "category": "Vulnerability Alert",
   "context": "Microsoft confirmed active exploitation of CVE-2025-62221, a zero-day privilege escalation vulnerability in Windows Cloud Files Filter Driver. CISA added it to the Known Exploited Vulnerabilities catalog, mandating rapid patching for federal systems.",
-  "image_url": "https://socprime.com/blog/wp-content/uploads/2025/12/CVE-2025-62221.png",
+  "image_url": "https://socprime.com/wp-content/uploads/CVE-2025-62221-and-CVE-2025-54100-2.jpg",
   "sources": [
     {
       "name": "SOC Prime",
