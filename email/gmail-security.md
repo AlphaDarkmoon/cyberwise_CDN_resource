@@ -9,7 +9,6 @@ This is not a movie plot—it’s a very common result of poor email security. S
 
 This guide is written **especially for beginners and non-technical users**. No jargon, no confusion—just clear, practical steps to keep your Gmail account secure.
 
----
 
 ## What Is Gmail Security?
 
@@ -28,7 +27,6 @@ Your Gmail account is usually connected to:
 
 **If someone gets access to your Gmail, they can control much more than just your emails.**
 
----
 
 ## Why Is Gmail Security Necessary?
 
@@ -45,7 +43,6 @@ From a **cybersecurity perspective**, Gmail is a **single point of failure**. Th
 - Data leaks (private documents & photos)
 - Emotional stress and reputation damage
 
----
 
 ## What Happens If Gmail Security Is NOT Followed?
 
@@ -81,13 +78,11 @@ Once leaked, this data **cannot be taken back**.
 - Blackmail or extortion
 - Permanent digital footprint misuse
 
----
 
 ## What Should You Do to Secure Your Gmail?
 
 Below are **simple but powerful steps**, explained clearly.
 
----
 
 ## 1. Use a Strong and Unique Password
 
@@ -103,7 +98,6 @@ Strong Password: `Sun@River!92#Cloud`
 
 Tip: Use a **password manager** if remembering is hard.
 
----
 
 ## 2. Enable 2-Step Verification (2FA)
 
@@ -120,7 +114,6 @@ Even if someone knows your password, they **still cannot log in** without a seco
 
 This reduces hacking risk by **over 90%**.
 
----
 
 ## 3. Watch Out for Phishing Emails
 
@@ -141,7 +134,6 @@ Fake emails that look real and try to steal:
 - Check the sender’s email carefully
 - Report phishing in Gmail
 
----
 
 ## 4. Secure Your Recovery Options
 
@@ -155,7 +147,6 @@ If you forget your password, Google uses:
 - Use a phone number you control
 - Keep them updated
 
----
 
 ## 5. Review Devices & App Access
 
@@ -171,7 +162,6 @@ If you forget your password, Google uses:
 
 Remove anything you don’t recognize.
 
----
 
 ## 6. Keep Yourself Cyber-Aware
 
@@ -183,7 +173,6 @@ Security is not just settings—it’s **habits**.
 - Keep your phone and browser updated
 - Never share OTPs or passwords—even with “support”
 
----
 
 ## Final Thoughts: Security Is Prevention, Not Panic
 
