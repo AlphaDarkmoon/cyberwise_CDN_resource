@@ -1,8 +1,6 @@
 # Gmail Security: A Beginner-Friendly Guide to Keeping Your Email Safe
 
-<p align="center">
-  <img src="https://i.ibb.co/Cs1W25fM/gmail-secured.png" alt="Stay safe" width="100%">
-</p>
+![Gmail Security](https://i.ibb.co/Cs1W25fM/gmail-secured.png)
 
 Imagine waking up one day and realizing someone else has been reading your emails, resetting your social media passwords, or even sending messages pretending to be *you*.  
 Sounds scary, right?  
@@ -198,8 +196,4 @@ Your Gmail is the **master key** to your digital world. Protect it like you prot
 If you take care of your Gmail security,  
 **you take care of your entire online identity.**
 
-<p align="center">
-  <img src="https://i.ibb.co/k22QhnNr/stay-Safe.png" alt="Stay safe" width="100%">
-</p>
-
-
+![Gmail Security](https://i.ibb.co/k22QhnNr/stay-Safe.png)
