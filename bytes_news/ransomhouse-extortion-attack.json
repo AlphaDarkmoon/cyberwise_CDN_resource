@@ -1,0 +1,13 @@
+{
+    "title": "RansomHouse Extortion Attack Claims 1.1TB Data Theft",
+    "category": "Ransomware",
+    "context": "Russia-aligned RansomHouse stole 1.1TB data without encryption, threatening release; linked to Alphv/BlackCat, LockBit, focusing on extortion across victims.",
+    "image_url": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2025/12/image-30.png?fit=1470%2C862&ssl=1",
+    "sources": [
+        {
+            "name": "Bright Defense",
+            "logo_url": "",
+            "news_url": "https://www.brightdefense.com/resources/recent-data-breaches/"
+        }
+    ]
+}
