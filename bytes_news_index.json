@@ -1,8 +1,15 @@
 {
   "version": "1.1",
   "last_updated": "2026-01-22",
-  "total_cards": 16,
+  "total_cards": 17,
   "cards": [
+    {
+      "id": "news_016",
+      "file": "bytes_news/telecom-sector-sees-fourfold-rise-in-ransomware-attacks-2022-2025.json",
+      "category": "Ransomware",
+      "priority": "medium",
+      "featured": false
+    },
     {
       "id": "news_016",
       "file": "bytes_news/8000-ransomware-attacks.json",
