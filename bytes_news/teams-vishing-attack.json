@@ -1,0 +1,13 @@
+{
+    "title": "Teams Vishing Attack Leads to .NET Malware Deployment",
+    "category": "Cyber Attack",
+    "context": "Attackers impersonate IT staff via Microsoft Teams calls, tricking users into installing Quick Assist leading to multi-stage .NET malware 'updater.exe' for system compromise.",
+    "image_url": "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/l/darkgate-malware/DarkGate-Fig13.png",
+    "sources": [
+        {
+            "name": "The Hacker News",
+            "logo_url": "",
+            "news_url": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html"
+        }
+    ]
+}

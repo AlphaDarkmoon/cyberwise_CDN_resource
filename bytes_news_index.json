@@ -1,8 +1,15 @@
 {
-  "version": "1.3",
+  "version": "1.4",
   "last_updated": "2026-01-22",
-  "total_cards": 18,
+  "total_cards": 20,
   "cards": [
+    {
+      "id": "news_020",
+      "file": "bytes_news/teams-vishing-attack.json",
+      "category": "Cyber Attack",
+      "priority": "medium",
+      "featured": false
+    },
     {
       "id": "news_019",
       "file": "bytes_news/ransomhouse-extortion-attack.json",
