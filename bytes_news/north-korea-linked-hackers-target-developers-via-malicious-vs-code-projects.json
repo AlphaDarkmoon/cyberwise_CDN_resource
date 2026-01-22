@@ -1,0 +1,13 @@
+{
+    "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects",
+    "category": "Cyber Espionage",
+    "context": "North Korean actors in the Contagious Interview campaign use fake job lures with malicious Visual Studio Code repositories to deploy backdoors, spyware, and miners on developers' systems, targeting crypto/blockchain sectors for financial gain and IP theft.",
+    "image_url": "https://cdn.nextgov.com/media/img/cd/2024/05/02/050224_getty_ng_dprk_morecyber/route-fifty-lead-image.jpg?1714684671",
+    "sources": [
+        {
+            "name": "The Hacker News",
+            "logo_url": "",
+            "news_url": "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html"
+        }
+    ]
+}

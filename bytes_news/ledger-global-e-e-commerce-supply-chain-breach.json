@@ -1,0 +1,13 @@
+{
+    "title": "Ledger / Global-e E-Commerce Supply Chain Breach",
+    "category": "Data Breach",
+    "context": "E-commerce provider Global-e suffered a breach exposing Ledger customer order data and over 200M records from multiple brands, claimed by ShinyHunters, disrupting supply chain trust.",
+    "image_url": "https://cyberinsider.com/wp-content/uploads/2026/01/Ledger-confirms-customer-data-exposure-in-Global-e-security-breach.png",
+    "sources": [
+        {
+            "name": "FireCompass",
+            "logo_url": "",
+            "news_url": "https://firecompass.com/weekly-cybersecurity-intelligence-report-cyber-threats-breaches-1-jan-6-jan-2026/"
+        }
+    ]
+}

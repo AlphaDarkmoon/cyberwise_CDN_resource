@@ -1,0 +1,128 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-01-22",
+  "total_cards": 15,
+  "cards": [
+    {
+      "id": "news_015",
+      "file": "bytes_news/lynx-ransomware-hits-hartford-insurance-threatens-data-leak.json",
+      "category": "Ransomware",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_014",
+      "file": "bytes_news/darkspectre-linked-to-massive-browser-extension-campaigns-compromising-8-8m-users.json",
+      "category": "Malware",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_013",
+      "file": "bytes_news/pluggyape-malware-uses-signal-and-whatsapp-to-target-ukrainian-defense-forces.json",
+      "category": "Malware",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_012",
+      "file": "bytes_news/confidential-apple-data-hacked-in-claimed-luxshare-attack.json",
+      "category": "Data Breach",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_011",
+      "file": "bytes_news/beijing-tells-chinese-firms-stop-using-us-and-israeli-cybersecurity-software.json",
+      "category": "Government Cyber Policy",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_010",
+      "file": "bytes_news/chinese-cyberattacks-on-taiwan-infrastructure-averaged-2-6-million-day-in-2025.json",
+      "category": "Cyber Warfare",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_009",
+      "file": "bytes_news/oracle-s-ebs-has-suffered-a-prolonged-ransomware-attack.json",
+      "category": "Ransomware",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_008",
+      "file": "bytes_news/17-5m-instagram-leak-the-reset-email-you-must-avoid.json",
+      "category": "Data Breach",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_007",
+      "file": "bytes_news/ledger-global-e-e-commerce-supply-chain-breach.json",
+      "category": "Data Breach",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_006",
+      "file": "bytes_news/uac-0184-viber-espionage-against-ukrainian-targets.json",
+      "category": "Cyber Espionage",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_005",
+      "file": "bytes_news/chinese-linked-hackers-target-us-entities-with-venezuelan-themed-malware.json",
+      "category": "Cyber Espionage",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_004",
+      "file": "bytes_news/china-hacked-email-systems-of-us-congressional-committee-staff-ft-reports.json",
+      "category": "Cyber Espionage",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_003",
+      "file": "bytes_news/north-korea-linked-hackers-target-developers-via-malicious-vs-code-projects.json",
+      "category": "Cyber Espionage",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_002",
+      "file": "bytes_news/ransomware-attack-on-ingram-micro-impacts-42000-individuals.json",
+      "category": "Ransomware",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_001",
+      "file": "bytes_news/everest-ransomware-McDonalds.json",
+      "category": "Ransomware",
+      "priority": "high",
+      "featured": true
+    }
+  ],
+  "categories": [
+    "Law Enforcement",
+    "Ransomware Attack",
+    "Data Breach",
+    "Cybersecurity Product Update",
+    "Vulnerability Alert",
+    "Privacy Regulation",
+    "Government Cyber Policy",
+    "Threat Intelligence",
+    "Vulnerability",
+    "Malware",
+    "Ransomware",
+    "Cyber Espionage",
+    "Cyber Warfare"
+  ],
+  "refresh_interval_hours": 24
+}

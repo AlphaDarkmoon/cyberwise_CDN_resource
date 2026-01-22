@@ -1,0 +1,13 @@
+{
+    "title": "UAC-0184 Viber Espionage Against Ukrainian Targets",
+    "category": "Cyber Espionage",
+    "context": "Russia-aligned UAC-0184 intensified spearphishing via Viber against Ukrainian military and government, delivering Hijack Loader and Remcos RAT for remote access and intelligence gathering.",
+    "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZrzpzm3kgY91cQhzyrpbgxomzkri4gsv_GeaFpDMVVj3faZ9_CQAm2c5DvxBbZ15708nW3eJrmSxS9AZBABszXboS-IVyik_4TTrni4xTOJERzoSSF5l7ixY_7n4hIydsBXGozBBS0rF89sIpgxRMHPZbEVe6n2j-nWxP15Y8fsvt7-_KQO-Zjwu_19h2/s790-rw-e365/viber.jpg",
+    "sources": [
+        {
+            "name": "FireCompass",
+            "logo_url": "",
+            "news_url": "https://firecompass.com/weekly-cybersecurity-intelligence-report-cyber-threats-breaches-1-jan-6-jan-2026/"
+        }
+    ]
+}
