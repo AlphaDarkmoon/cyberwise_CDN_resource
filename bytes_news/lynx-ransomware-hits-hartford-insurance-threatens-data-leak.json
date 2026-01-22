@@ -2,7 +2,7 @@
 "title": "Lynx Ransomware Hits Hartford Insurance, Threatens Data Leak",
 "category": "Ransomware",
 "context": "Lynx ransomware group attacked Hartford Insurance, exfiltrating business data including contracts and documents. Uses .lynx extension, kills backups, threatens leak on Tor site if no payment.",
-"image_url": "https://blogs.blackberry.com/content/dam/blogs-blackberry-com/images/blogs/2024/10/lynx-article-875x530.jpg",
+"image_url": "https://stonefly.com/wp-content/uploads/2025/02/Lynx-Ransomware.png",
 "sources": [
 {
 "name": "FireCompass",
