@@ -1,0 +1,13 @@
+{
+"title": "New Osiris Ransomware Emerges Using Custom POORTRY BYOVD Driver",
+"category": "Ransomware",
+"context": "New Osiris ransomware strain employs BYOVD technique with custom POORTRY driver to disable EDR/AV tools, exfiltrate data via Rclone, targeting enterprises for encryption and extortion.",
+"image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYzbCMSUAN1p1M0CnYPBeFVA3mYmKz-XYLo2R-0OUmaSxvarUieSUkbxkOexloc74_koPBcfuIcHXj2taolqWDe8nhE4Uo8maY_rioqDFiWgi9OWuQseJ5VLk4nf74YzkJ1nPf2sQlFyNBbHMktJ7Fe7XbJbJJa-Viv28SJ28jmrceB3dSGpVNIQbS8UYZ/s1600-e365/ransomware.jpg",
+"sources": [
+{
+"name": "The Hacker News",
+"logo_url": "",
+"news_url": "https://thehackernews.com/2026/01/new-osiris-ransomware-emerges-as-new.html"
+}
+]
+}

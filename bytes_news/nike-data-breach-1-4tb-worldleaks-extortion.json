@@ -1,0 +1,13 @@
+{
+"title": "NIKE DATA BREACH: 1.4TB WORLDLEAKS EXTORTION",
+"category": "Data Breach",
+"context": "WorldLeaks ransomware collective exfiltrated 1.4TB of Nike's sensitive data including R&D, manufacturing, supply chain, and HR records via supply chain compromise. Leaked January 25-26, 2026, demanding ransom and exposing global operations risks.",
+"image_url": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt80a2a5d78b60fadf/6978b324a48f64012e026e5c/Nike_KenWolter_Alamy.png",
+"sources": [
+{
+"name": "FireCompass",
+"logo_url": "",
+"news_url": "https://firecompass.com/weekly-cybersecurity-intelligence-report-cyber-threats-breaches-20-jan-26-jan-2026-2/"
+}
+]
+}

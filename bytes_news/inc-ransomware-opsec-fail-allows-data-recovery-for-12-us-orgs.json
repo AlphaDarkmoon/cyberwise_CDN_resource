@@ -1,0 +1,13 @@
+{
+"title": "INC Ransomeware OpSec Fail Allows Data Recovery for 12 US Orgs",
+"category": "Ransomware",
+"context": "INC ransomware's poor opsec exposed exfiltrated data backups via Restic tool misconfiguration, enabling recovery for 12 US victims by researchers, highlighting attacker tooling flaws.",
+"image_url": "https://www.bleepstatic.com/content/hl-images/2024/04/16/3.jpg",
+"sources": [
+{
+"name": "BleepingComputer",
+"logo_url": "",
+"news_url": "https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/"
+}
+]
+}

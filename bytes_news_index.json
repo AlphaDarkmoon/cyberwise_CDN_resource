@@ -1,8 +1,43 @@
 {
   "version": "1.4",
-  "last_updated": "2026-01-22",
-  "total_cards": 20,
+  "last_updated": "2026-01-29",
+  "total_cards": 25,
   "cards": [
+    {
+      "id": "news_025",
+      "file": "bytes_news/mustang-panda-deploys-updated-coolclient-backdoor-in-government-attacks.json",
+      "category": "Cyber Espionage",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_024",
+      "file": "bytes_news/inc-ransomware-opsec-fail-allows-data-recovery-for-12-us-orgs.json",
+      "category": "Ransomware",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_023",
+      "file": "bytes_news/new-osiris-ransomware-emerges-using-custom-poortry-byovd-driver.json",
+      "category": "Ransomware",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_022",
+      "file": "bytes_news/fortinet-zero-day-cve-2026-24858-allows-firewall-takeover.json",
+      "category": "Vulnerability",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_021",
+      "file": "bytes_news/nike-data-breach-1-4tb-worldleaks-extortion.json",
+      "category": "Data Breach",
+      "priority": "medium",
+      "featured": false
+    },
     {
       "id": "news_020",
       "file": "bytes_news/teams-vishing-attack.json",
@@ -157,7 +192,8 @@
     "Malware",
     "Ransomware",
     "Cyber Espionage",
-    "Cyber Warfare"
+    "Cyber Warfare",
+    "Cyber Attack"
   ],
   "refresh_interval_hours": 24
 }
