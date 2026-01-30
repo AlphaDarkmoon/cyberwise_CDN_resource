@@ -1,8 +1,36 @@
 {
   "version": "1.4",
-  "last_updated": "2026-01-29",
-  "total_cards": 25,
+  "last_updated": "2026-01-30",
+  "total_cards": 29,
   "cards": [
+    {
+      "id": "news_029",
+      "file": "bytes_news/cyber-attack-news-risk-roundup-top-stories-for-january-2026.json",
+      "category": "Cyber Attack",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_028",
+      "file": "bytes_news/top-10-ransomware-attacks-of-2026-so-far.json",
+      "category": "Ransomware",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_027",
+      "file": "bytes_news/data-security-and-ransomware-the-picture-into-2026.json",
+      "category": "Cyber Policy",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_026",
+      "file": "bytes_news/doomsday-for-cybercriminals-data-breach-of-major-dark-web-forum.json",
+      "category": "Data Breach",
+      "priority": "medium",
+      "featured": false
+    },
     {
       "id": "news_025",
       "file": "bytes_news/mustang-panda-deploys-updated-coolclient-backdoor-in-government-attacks.json",
@@ -193,7 +221,8 @@
     "Ransomware",
     "Cyber Espionage",
     "Cyber Warfare",
-    "Cyber Attack"
+    "Cyber Attack",
+    "Cyber Policy"
   ],
   "refresh_interval_hours": 24
 }
