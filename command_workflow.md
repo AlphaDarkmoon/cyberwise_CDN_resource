@@ -14,9 +14,9 @@
 ## Push Content to github:
 ```
 git add .
-git commit -m "Add new cyber news and tips"
+git commit -m "30-01-2026 Update"
 git push
 
-git tag v1.0.4
-git push origin v1.0.4
+git tag v1.0.7
+git push origin v1.0.7
 ```

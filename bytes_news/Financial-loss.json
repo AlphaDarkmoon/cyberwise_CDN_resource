@@ -1,0 +1,13 @@
+{
+    "title": "Fake Finance Loss News",
+    "category": "Data Breach",
+    "context": "It's fake what else do you want???",
+    "image_url": "https://www.goethe.de/resources/files/jpg1325/understanding-the-fake-news-phenomenon-formatkey-jpg-w1920.jpg",
+    "sources": [
+        {
+            "name": "Bright Defense",
+            "logo_url": "",
+            "news_url": "https://www.brightdefense.com/resources/recent-data-breaches/"
+        }
+    ]
+}

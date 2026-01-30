@@ -1,8 +1,15 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "last_updated": "2026-01-30",
-  "total_cards": 29,
+  "total_cards": 30,
   "cards": [
+    {
+      "id": "news_030",
+      "file": "bytes_news/Financial-loss.json",
+      "category": "Data Breach",
+      "priority": "medium",
+      "featured": false
+    },
     {
       "id": "news_029",
       "file": "bytes_news/cyber-attack-news-risk-roundup-top-stories-for-january-2026.json",
